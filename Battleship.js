@@ -1,6 +1,6 @@
 // this function generates a random number between a specified minimum and maximum number
 
-// Adding comment to test pull requests
+// Adding comment to test pull requests and direct commits
 function getRandomNumber(min, max) {
 	return Math.floor(Math.random() * (max - min) + min);
 }
